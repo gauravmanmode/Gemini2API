@@ -1,4 +1,4 @@
-# Web2API
+# Gemini2API
 A reverse proxy for web chat LLM's to OpenAI API format.
 ## Motivation
 With Gemini exploiting students with its Google AI Pro Subscriptions for students for 1 year, we need to get value for what we are paying with.
